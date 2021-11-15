@@ -1,0 +1,12 @@
+.DS_Store
+
+node_modules
+.vscode
+.env
+coverage
+out
+zookpr.out
+kafka.out
+kafka
+token.json
+accessToken.sh
